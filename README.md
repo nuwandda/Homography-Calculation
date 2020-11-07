@@ -17,6 +17,6 @@ Images: </br>
 ![alt text](https://github.com/nuwandda/Homography-Calculation/blob/main/image_r.jpg "Right Image")</br>
 Matches:</br>
 ![alt text](https://github.com/nuwandda/Homography-Calculation/blob/main/matches.png "Matches")</br>
-Matches with inliers:</br>
+Matches with inliers(Green lines):</br>
 ![alt text](https://github.com/nuwandda/Homography-Calculation/blob/main/Inlier_matches.png "Inliers(Green lines)")
 
